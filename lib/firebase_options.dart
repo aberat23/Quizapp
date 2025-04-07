@@ -31,7 +31,7 @@ class DefaultFirebaseOptions {
       case TargetPlatform.linux:
         throw UnsupportedError(
           'DefaultFirebaseOptions have not been configured for linux - '
-              'you can reconfigure this by running the FlutterFire CLI again.',
+          'you can reconfigure this by running the FlutterFire CLI again.',
         );
       default:
         throw UnsupportedError(
@@ -41,46 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCA4z5Gv-BlB9sTMRDbISJ0lKfOeQk1zW0',
-    appId: '1:34992871610:web:5378cc9b65a1134f478a83',
-    messagingSenderId: '34992871610',
-    projectId: 'bitirme-33025',
-    authDomain: 'bitirme-33025.firebaseapp.com',
-    storageBucket: 'bitirme-33025.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBzrKzByGr6xx2PpdqJaSf2yj0HOuGGE-8',
-    appId: '1:34992871610:android:426dca1f901e53a8478a83',
-    messagingSenderId: '34992871610',
-    projectId: 'bitirme-33025',
-    storageBucket: 'bitirme-33025.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyANG1sMhm5ZXg4a_-y4tkGS4mKvCiWahfs',
-    appId: '1:34992871610:ios:2233b6d2f9fef08d478a83',
-    messagingSenderId: '34992871610',
-    projectId: 'bitirme-33025',
-    storageBucket: 'bitirme-33025.appspot.com',
-    iosBundleId: 'com.example.sorucevap',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyANG1sMhm5ZXg4a_-y4tkGS4mKvCiWahfs',
-    appId: '1:34992871610:ios:2233b6d2f9fef08d478a83',
-    messagingSenderId: '34992871610',
-    projectId: 'bitirme-33025',
-    storageBucket: 'bitirme-33025.appspot.com',
-    iosBundleId: 'com.example.sorucevap',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCA4z5Gv-BlB9sTMRDbISJ0lKfOeQk1zW0',
-    appId: '1:34992871610:web:319da3f79993ebb6478a83',
-    messagingSenderId: '34992871610',
-    projectId: 'bitirme-33025',
-    authDomain: 'bitirme-33025.firebaseapp.com',
-    storageBucket: 'bitirme-33025.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 }
