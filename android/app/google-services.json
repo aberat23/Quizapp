@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34992871610",
+    "project_id": "bitirme-33025",
+    "storage_bucket": "bitirme-33025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34992871610:android:426dca1f901e53a8478a83",
+        "android_client_info": {
+          "package_name": "com.example.sorucevap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzrKzByGr6xx2PpdqJaSf2yj0HOuGGE-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
